@@ -12,10 +12,8 @@ Built as part of my ongoing Power BI learning and portfolio development journey,
 
 ---
 
-## 📸 Dashboard Preview  
+## 📸 Dashboard Preview   
 
-> *(Add your dashboard screenshot here)*  
-> Example:  
 > ![Blinkit Dashboard Preview](blinkit_dashboard.png)
 
 ---
